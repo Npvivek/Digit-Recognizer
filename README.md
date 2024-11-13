@@ -4,17 +4,6 @@
 
 This project uses **Deep Learning** to classify handwritten digits from the **MNIST dataset**. The MNIST dataset contains 28x28 grayscale images of digits from 0 to 9. We explore two different approaches for classification: **Convolutional Neural Networks (CNNs)** and **Artificial Neural Networks (ANNs)**. The goal is to effectively predict the digit in each image and compare the performance of both models.
 
-## Project Structure
-
-- **Convolutional Neural Network (CNN)**: 
-  - Built a CNN model with multiple convolutional and max-pooling layers.
-  - Used **BatchNormalization** and **Dropout** to enhance generalization.
-  - Evaluated using **accuracy**, **confusion matrix**, and **classification report**.
-
-- **Artificial Neural Network (ANN)**:
-  - Implemented multiple ANN architectures with different complexities.
-  - Compared model performance to determine the most suitable network for digit classification.
-  - Evaluated using accuracy, confusion matrix, and classification report.
 
 ## Key Features
 
